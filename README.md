@@ -15,6 +15,11 @@
 ## User System
 - [ ] Ban User
 
+## Hunting System
+- [ ] Raid
+- [ ] PvP
+- [ ] Hunt Mob
+
 ## Location
 - [ ] Map
 - [ ] Weather
@@ -27,7 +32,10 @@
 - [ ] Event On Special Day!
 
 ## Clan/Crew System
-- [ ] Invite
+- [ ] Invite Member
+- [ ] Join Clan
+- [ ] Search Clan
+- [ ] Clan's Domain
 
 ## And ManyMore....
 
